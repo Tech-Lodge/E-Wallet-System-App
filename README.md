@@ -7,7 +7,7 @@ E-wallet feature for a micro finance bank.
 
 ## Authors
 - [@Gerard-007](https://www.github.com/Gerard-007)
-- [@Gerard-007](https://www.github.com/williams313)
+- [@williams313](https://www.github.com/williams313)
 
 
 ## Badges
